@@ -1,0 +1,18 @@
+{
+  "window.zoomLevel": -1,
+  "terminal.integrated.fontSize": 18,
+  "editor.fontSize": 22,
+  "editor.lineHeight": 33,
+  "workbench.colorTheme": "Learn with Sumit - Professional",
+  "editor.hover.delay": 1000,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
+  },
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "css.validate": false,
+  "tailwindCSS.emmetCompletions": true
+}
